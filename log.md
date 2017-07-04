@@ -14,4 +14,4 @@
 
 **Thoughts:** My tribute page wasn't that good, as i need to learn more html and css to strengthen it. 
 
-**Link to work:** [Tribute Page](https://codepen.io/YoloPhoenix/pen/KqRXVZ) [Learning more HTML + CSS] (http://learn.shayhowe.com/html-css/)
+**Link to work:** [Tribute Page](https://codepen.io/YoloPhoenix/pen/KqRXVZ) [Learning more HTML + CSS](http://learn.shayhowe.com/html-css/)
